@@ -1,4 +1,6 @@
-# SQL Saturdays
-Content and slides from various SQL Saturday events.
+# Community Events
+Content and slides from various community events. Including:
 
-![SQLSatLogo](http://www.sqlsaturday.com/Portals/_default/Skins/SQLSaturday-2014/images/sqlsaturday-logo.png)
+- SQL Saturday's
+- Globel Azure Boot Camp
+- Hackathons
