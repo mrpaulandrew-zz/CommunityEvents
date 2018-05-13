@@ -18,7 +18,7 @@ DECLARE @OutputFilePath1 string = "/Output/FileAggBySourceName.csv";
 @SizeByFile =
     SELECT
         [SourceFileName] AS FileName,
-        COUNT(0) AS RecordCount
+        COUNT(*) AS RecordCount
     FROM
         @Raw
     GROUP BY

@@ -97,7 +97,7 @@
     </ScriptUserData>
     <ScriptUserData Include="AmbulanceDataSet\DemoMultipleFilesCountVid.usql">
       <UseLocalComputeAccount>true</UseLocalComputeAccount>
-      <LocalComputeAccount>LocalCA:localcomputeaccount</LocalComputeAccount>
+      <LocalComputeAccount>DataLakeLocalCA:localcomputeaccount</LocalComputeAccount>
       <LocalDatabase>master</LocalDatabase>
       <LocalSchema>dbo</LocalSchema>
     </ScriptUserData>
@@ -132,8 +132,8 @@
       <Parallelism>100</Parallelism>
     </ScriptUserData>
     <ScriptUserData Include="SearchLog\Hello World.usql">
-      <UseLocalComputeAccount>false</UseLocalComputeAccount>
-      <LocalComputeAccount>LocalCA:localcomputeaccount</LocalComputeAccount>
+      <UseLocalComputeAccount>true</UseLocalComputeAccount>
+      <LocalComputeAccount>DataLakeLocalCA:localcomputeaccount</LocalComputeAccount>
       <LocalDatabase>master</LocalDatabase>
       <LocalSchema>dbo</LocalSchema>
       <ClusterComputeAccount>DataLakeCA:playgroundadla01 (paul@mrpaulandrew.com)</ClusterComputeAccount>
