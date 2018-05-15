@@ -1,0 +1,25 @@
+{
+	"name": "Email Call Only",
+	"properties": {
+		"activities": [
+			{
+				"name": "Web1",
+				"type": "WebActivity",
+				"policy": {
+					"timeout": "7.00:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false
+				},
+				"typeProperties": {
+					"url": "",
+					"method": "POST",
+					"body": {
+						"value": "{\"fromEmail\":\"paulmrpaulandrew.com\",\"toEmail\":\"paulmrpaulandrew.com\",\"subject\":\"ADF Pipeline Alert\",\"message\":\"@{pipeline().Pipeline} Pipeline success.\",\"isImportant\":true}",
+						"type": "Expression"
+					}
+				}
+			}
+		]
+	}
+}
