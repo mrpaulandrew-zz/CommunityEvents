@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputStreamPath>C:\Users\pja\AppData\Local\USQLDataRoot</OutputStreamPath>
     <StartFile>SearchLog\SearchLog-3b-Adding CSharp Behind.usql</StartFile>
-    <ActiveFile>SearchLog\SearchLog-3b-Adding CSharp Behind.usql</ActiveFile>
+    <ActiveFile>SearchLog\Hello World.usql</ActiveFile>
     <BuildClusterPlanProperty>False</BuildClusterPlanProperty>
   </PropertyGroup>
   <ItemGroup>
