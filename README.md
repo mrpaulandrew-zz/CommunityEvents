@@ -15,3 +15,5 @@ Content and slides from various community events. Including:
 - MS Ignite Tour
 - PASS Summit
 - Red TShirt Dev Tour
+
+All content is commited at the time of the event.
