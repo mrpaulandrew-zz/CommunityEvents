@@ -1,10 +1,17 @@
 # Community Events
 Content and slides from various community events. Including:
 
-- SQL Relay
+- Data Grillen
+- Data Minds Connect
+- Data Relay
 - SQL Bits
 - SQL Day
 - SQL Saturday's
-- Globel Azure Boot Camp
+- Global Azure Boot Camp
 - Hackathons
-- User Groups
+- User Groups/MeetUps
+- AI Tech North
+- Group By
+- MS Ignite Tour
+- PASS Summit
+- Red TShirt Dev Tour
